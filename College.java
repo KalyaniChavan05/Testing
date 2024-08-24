@@ -10,8 +10,8 @@ class College extends Student
 	public static void main(String args[])
 	{
 		College c1= new College();
-		System.out.println("Name of the Student is:"+c1.name);
-		System.out.println("Class is:"+c1.course);
+		System.out.println("Name is:"+c1.name);
+		System.out.println("Class is:"+.course);
 	}
 }
 
